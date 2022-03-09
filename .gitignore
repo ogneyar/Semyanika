@@ -4,9 +4,9 @@ vendor/
 # web/getMail
 # web/img
 # web/myBotApi
-web/o_nas
+# web/o_nas
 web/obzor_meropriyatiy
-web/otzivi
+# web/otzivi
 web/partneri
 web/photos
 web/poryadok_meropriyatiy
