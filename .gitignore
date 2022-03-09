@@ -1,7 +1,7 @@
 vendor/
 .env
 # web/contacts
-web/getMail
+# web/getMail
 web/img
 web/myBotApi
 web/o_nas
