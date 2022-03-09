@@ -1,6 +1,6 @@
 vendor/
 .env
-web/contacts
+# web/contacts
 web/getMail
 web/img
 web/myBotApi
@@ -13,5 +13,3 @@ web/poryadok_meropriyatiy
 web/site_files
 web/sotrudnichestvo
 web/sovet-da-lubov
-web/obzor_meropriyatiy
-web/obzor_meropriyatiy
