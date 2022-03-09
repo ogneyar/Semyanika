@@ -1,15 +1,3 @@
 vendor/
 .env
-# web/contacts
-# web/getMail
-# web/img
-# web/myBotApi
-# web/o_nas
-web/obzor_meropriyatiy/video/video_12503.mp4
-# web/otzivi
-# web/partneri
-# web/photos
-# web/poryadok_meropriyatiy
-# web/site_files
-# web/sotrudnichestvo
-# web/sovet-da-lubov
+web/obzor_meropriyatiy/video/video_12503_BIG.mp4
