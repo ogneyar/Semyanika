@@ -2,8 +2,8 @@ vendor/
 .env
 # web/contacts
 # web/getMail
-web/img
-web/myBotApi
+# web/img
+# web/myBotApi
 web/o_nas
 web/obzor_meropriyatiy
 web/otzivi
