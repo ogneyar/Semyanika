@@ -65,7 +65,7 @@
 	<article class="tooltip">	
 		<!--<h4>-->
 		<h4><span>Карта сбербанка</span></h4>
-		<input type="text" value="6390 0252 9029 3032 12" id="myInput" onclick="myFunction('myInput')" onmouseout="outFunc()" readonly>
+		<input type="text" value="2202 2032 4516 2849" id="myInput" onclick="myFunction('myInput')" onmouseout="outFunc()" readonly>
 		
 		<br><br>
 		
