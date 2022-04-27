@@ -22,9 +22,9 @@
         <h3>
             Отправьте сообщение:
             <br />
-            ✅ https://t.me/oksanasemyanika
+            <a href="https://t.me/oksanasemyanika" >✅ https://t.me/oksanasemyanika</a>
             <br />
-            ✅ https://wa.me/qr/DNH65PHPA3N3I1
+            <a href="https://wa.me/qr/DNH65PHPA3N3I1" >✅ https://wa.me/qr/DNH65PHPA3N3I1</a>
         </h3>
 
 
