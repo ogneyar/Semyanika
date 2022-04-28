@@ -22,9 +22,10 @@
         <h3>
             Отправьте сообщение:
             <br />
-            <a href="https://t.me/oksanasemyanika" >✅ https://t.me/oksanasemyanika</a>
+            <a href="https://t.me/oksanasemyanika" >✅https://t.me/oksanasemyanika</a>
             <br />
-            <a href="https://wa.me/qr/DNH65PHPA3N3I1" >✅ https://wa.me/qr/DNH65PHPA3N3I1</a>
+            ✅ +79185770009 WhatsApp
+            <!-- <a href="https://wa.me/qr/DNH65PHPA3N3I1" >✅https://wa.me/qr/DNH65PHPA3N3I1</a>-->
         </h3>
 
 
